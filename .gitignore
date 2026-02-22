@@ -1,0 +1,12 @@
+# Secret token file
+.env
+
+# Python cache and environments
+__pycache__/
+venv/
+.venv/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
